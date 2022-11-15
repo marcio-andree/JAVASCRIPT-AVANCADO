@@ -52,7 +52,7 @@ console.log(turmaA);
 console.log(turmaB);
 
 
-// object.assign({}, ) permite fazer um clone do objeto sem modificar o objeto original
+// object.assign({}, objeto ) ou {... objeto}permite fazer um clone do objeto sem modificar o objeto original
 
 let objetoA = {nome:"lufi", idade: "19"}
 
